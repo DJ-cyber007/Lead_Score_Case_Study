@@ -13,7 +13,7 @@ An education company named X Education sells online courses to industry professi
 - Model Evaluation
 - Making Predictions on test set
 ## Details of files given
-- Lead Score Case Study.ipynb : The python file showing coding and data analysis
-- Assignment Subjective Questions.pdf : Some subjective questions answered
+- Lead Scoring Case Study.ipynb : The python file showing coding and data analysis
+- Assignment Subjective Questions Answers.pdf : Some subjective questions answered
 - Lead Score Case Study Presentation.pdf : Final Presentation
-- Summary.pdf : Summary on what's done in the entire py file
+- Summary Lead Scoring Case Study.pdf : Summary on what's done in the entire py file
